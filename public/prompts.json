@@ -69,6 +69,10 @@
       "我想让你扮演一个脱口秀喜剧演员。我将为您提供一些与时事相关的话题，您将运用您的智慧、创造力和观察能力，根据这些话题创建一个例程。您还应该确保将个人轶事或经历融入日常活动中，以使其对观众更具相关性和吸引力。我的第一个请求是“我想要幽默地看待政治”。\n"
     ],
     [
+      "讲一个笑话",
+      "请讲一个健康又有趣的中文笑话，包袱紧凑，结尾要出人意料，让人笑出声来。\n"
+    ],
+    [
       "充当励志教练",
       "我希望你充当激励教练。我将为您提供一些关于某人的目标和挑战的信息，而您的工作就是想出可以帮助此人实现目标的策略。这可能涉及提供积极的肯定、提供有用的建议或建议他们可以采取哪些行动来实现最终目标。我的第一个请求是“我需要帮助来激励自己在为即将到来的考试学习时保持纪律”。\n"
     ],
@@ -555,6 +559,10 @@
       "我想讓你扮演一位脫口秀喜劇演員。我將提供一些與時事相關的話題，你將運用你的智慧、創造力和觀察力，根據這些話題創作一段節目。你也應該將個人的趣聞軼事或經驗融入日常表演中，以增加其對觀眾的關聯性和吸引力。我的第一個要求是「我想要幽默地看待政治」。\n"
     ],
     [
+      "講一個笑話",
+      "請講一個健康又超好笑的中文笑話，包袱要緊湊，結尾出乎意料，讓人忍不住笑出聲。\n"
+    ],
+    [
       "扮演勵志教練",
       "我希望你扮演激勵教練。我會提供一些關於某人的目標與挑戰的資訊，你的任務是構思出能協助此人達成目標的策略。這可能包括給予正面的鼓勵、提供實用的建議，或是指示他們可以採取哪些步驟來實現最終目標。我的第一個請求是「我需要幫助，以激勵自己在準備即將到來的考試時保持自律」。\n"
     ],
@@ -1035,6 +1043,10 @@
     [
       "Stand-up Comedian",
       "I want you to act as a stand-up comedian. I will provide you with some topics related to current events and you will use your wit, creativity, and observational skills to create a routine based on those topics. You should also be sure to incorporate personal anecdotes or experiences into the routine in order to make it more relatable and engaging for the audience. My first request is \"I want an humorous take on politics.\""
+    ],
+    [
+      "Tell a Chinese Joke",
+      "Please tell a healthy, side-splitting Chinese joke with a snappy setup and a surprising punchline that makes people burst out laughing.\n"
     ],
     [
       "Motivational Coach",
